@@ -9,3 +9,4 @@ So let's turn on our smiles
 All around the world like lightulbs!
 
 git_6 feature 1
+git_7 feature
